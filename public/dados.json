@@ -1,0 +1,228 @@
+{
+  "usuarios": [
+    {
+        "id": "1",
+        "url_foto": "/perfil_Azul.png",
+        "nome": "Emília Andrade",
+        "cor-nome": "rgba(0, 0, 0, 1)",
+        "fundo": "/fundo_Azul.png",
+        "cor-link": "rgba(109, 169, 243, 1)",
+        "cor-link-hover": "rgba(59, 129, 216, 1)",
+        "cor-texto": "rgba(241, 241, 241, 1)",
+        "border_radius": "10px",
+        "cor-body": "#E6F0FA",
+        "links": [
+            {
+                "icone": "/blog.svg",
+                "texto": "Blog",
+                "url": "https://www.linkedin.com/in/taline-rodrigues-9ba5ba296/"
+            },
+            {
+                "icone": "/gitlab.svg",
+                "texto": "GitLab",
+                "url": "https://gitlab.fslab.dev/talinerodrigues"
+            },
+            {
+                "icone": "/github.svg",
+                "texto": "GitHub",
+                "url": "https://github.com/TalineFranca"
+            },
+            {
+                "icone": "/linkedin.svg",
+                "texto": "Linkedin",
+                "url": "https://www.linkedin.com/in/taline-rodrigues-9ba5ba296/"
+            },
+            {
+                "icone": "/instagram.svg",
+                "texto": "Instagram",
+                "url": "https://www.instagram.com/talinerf?igsh=MXRoZ2hxdW1ybnh1bw=="
+            },
+            {
+                "icone": "/email.svg",
+                "texto": "Enviar um e-mail",
+                "url": "mailto:talinefranca32@gmail.com"
+            }
+        ],
+        "qr": "/qrcode_Azul.svg"
+    },
+    {
+        "id": "2",
+        "url_foto": "/perfil_Verde.png",
+        "nome": "Tereza Oliveira",
+        "cor-nome": "rgba(0, 0, 0, 1)",
+        "fundo": "/fundo_Verde.png",
+        "cor-link": "rgba(58, 183, 77, 1)",
+        "cor-link-hover": "rgba(21, 145, 40, 1)",
+        "cor-texto": "rgba(241, 241, 241, 1)",
+        "border_radius": "10px",
+        "cor-body": "#E6F6E9",
+        "links": [
+            {
+                "icone": "/blog.svg",
+                "texto": "Blog",
+                "url": "https://www.linkedin.com/in/taline-rodrigues-9ba5ba296/"
+            },
+            {
+                "icone": "/gitlab.svg",
+                "texto": "GitLab",
+                "url": "https://gitlab.fslab.dev/talinerodrigues"
+            },
+            {
+                "icone": "/github.svg",
+                "texto": "GitHub",
+                "url": "https://github.com/TalineFranca"
+            },
+            {
+                "icone": "/linkedin.svg",
+                "texto": "Linkedin",
+                "url": "https://www.linkedin.com/in/taline-rodrigues-9ba5ba296/"
+            },
+            {
+                "icone": "/instagram.svg",
+                "texto": "Instagram",
+                "url": "https://www.instagram.com/talinerf?igsh=MXRoZ2hxdW1ybnh1bw=="
+            },
+            {
+                "icone": "/email.svg",
+                "texto": "Enviar um e-mail",
+                "url": "mailto:talinefranca32@gmail.com"
+            }
+        ],
+        "qr": "/qrcode_Verde.svg"
+    },
+    {
+        "id": "3",
+        "url_foto": "/perfil_Vermelho.png",
+        "nome": "Marco Andrade",
+        "cor-nome": "rgba(241, 241, 241, 1)",
+        "fundo": "rgba(235, 94, 103, 1)",
+        "cor-link": "rgba(241, 241, 241, 1)",
+        "cor-link-hover": "rgba(216, 86, 94, 1)",
+        "link-borda": "rgba(241, 241, 241, 1)",
+        "cor-texto": "rgba(1, 1, 1, 1)",
+        "border_radius": "16px",
+        "cor-body": "#FCE6E7",
+        "links": [
+            {
+                "icone": "/blog_Preto.svg",
+                "texto": "Blog",
+                "url": "https://www.linkedin.com/in/taline-rodrigues-9ba5ba296/"
+            },
+            {
+                "icone": "/gitlab_Preto.svg",
+                "texto": "GitLab",
+                "url": "https://gitlab.fslab.dev/talinerodrigues"
+            },
+            {
+                "icone": "/github_Preto.svg",
+                "texto": "GitHub",
+                "url": "https://github.com/TalineFranca"
+            },
+            {
+                "icone": "/linkedin_Preto.svg",
+                "texto": "Linkedin",
+                "url": "https://www.linkedin.com/in/taline-rodrigues-9ba5ba296/"
+            },
+            {
+                "icone": "/instagram_Preto.svg",
+                "texto": "Instagram",
+                "url": "https://www.instagram.com/talinerf?igsh=MXRoZ2hxdW1ybnh1bw=="
+            },
+            {
+                "icone": "/email_Preto.svg",
+                "texto": "Enviar um e-mail",
+                "url": "mailto:talinefranca32@gmail.com"
+            }
+        ],
+        "qr": "/qrcode_Vermelho.svg"
+    },
+    {
+        "id": "4",
+        "url_foto": "/perfil_Amarelo.png",
+        "nome": "José Silva",
+        "fundo": "rgba(255, 206, 86, 1)",
+        "cor-link": "rgba(255, 255, 255, 1)",
+        "cor-link-hover": "rgba(241, 185, 36, 1)",
+        "cor-texto": "rgba(1, 1, 1, 1)",
+        "border_radius": "32px",
+        "cor-body": "#FFF7E0",
+        "links": [
+            {
+                "icone": "/blog_Preto.svg",
+                "texto": "Blog",
+                "url": "https://www.linkedin.com/in/taline-rodrigues-9ba5ba296/"
+            },
+            {
+                "icone": "/gitlab_Preto.svg",
+                "texto": "GitLab",
+                "url": "https://gitlab.fslab.dev/talinerodrigues"
+            },
+            {
+                "icone": "/github_Preto.svg",
+                "texto": "GitHub",
+                "url": "https://github.com/TalineFranca"
+            },
+            {
+                "icone": "/linkedin_Preto.svg",
+                "texto": "Linkedin",
+                "url": "https://www.linkedin.com/in/taline-rodrigues-9ba5ba296/"
+            },
+            {
+                "icone": "/instagram_Preto.svg",
+                "texto": "Instagram",
+                "url": "https://www.instagram.com/talinerf?igsh=MXRoZ2hxdW1ybnh1bw=="
+            },
+            {
+                "icone": "/email_Preto.svg",
+                "texto": "Enviar um e-mail",
+                "url": "mailto:talinefranca32@gmail.com"
+            }
+        ],
+        "qr": "/qrcode_Amarelo.svg"
+    },
+    {
+      "id": "5",
+      "url_foto": "/perfil_Preto.png",
+      "nome": "Eliana Silva",
+      "fundo": "linear-gradient(179.74deg, #535155 24.93%, #B7B2BB 99.77%)",
+      "cor-link": "rgba(83, 81, 85, 1)",
+      "cor-link-hover": "rgba(34, 33, 36, 1)",
+      "cor-texto": "rgba(255, 255, 255, 1)",
+      "border_radius": "4px",
+      "cor-body": "#F2F2F3",
+      "links": [
+        {
+            "icone": "/blog.svg",
+            "texto": "Blog",
+            "url": "https://www.linkedin.com/in/taline-rodrigues-9ba5ba296/"
+        },
+        {
+            "icone": "/gitlab.svg",
+            "texto": "GitLab",
+            "url": "https://gitlab.fslab.dev/talinerodrigues"
+        },
+        {
+            "icone": "/github.svg",
+            "texto": "GitHub",
+            "url": "https://github.com/TalineFranca"
+        },
+        {
+            "icone": "/linkedin.svg",
+            "texto": "Linkedin",
+            "url": "https://www.linkedin.com/in/taline-rodrigues-9ba5ba296/"
+        },
+        {
+            "icone": "/instagram.svg",
+            "texto": "Instagram",
+            "url": "https://www.instagram.com/talinerf?igsh=MXRoZ2hxdW1ybnh1bw=="
+        },
+        {
+            "icone": "/email.svg",
+            "texto": "Enviar um e-mail",
+            "url": "mailto:talinefranca32@gmail.com"
+        }
+      ],
+      "qr": "/qrcode_Preto.svg"
+    }
+  ]
+}
